@@ -2,6 +2,7 @@ package com.example.spockstudy
 
 import spock.lang.Specification
 
+// https://spockframework.org/spock/docs/2.1/interaction_based_testing.html
 class SpockStudy_InteractionBasedTesting extends Specification {
 
     /**
